@@ -8,14 +8,6 @@
     font-weight: normal;
 }
 
-@font-face{
-    font-family: "MuseoSansCyrillic";
-    src: url("../fonts/MuseoSansCyrillic/museosanscyrl_500.eot"),
-    url("../fonts/MuseoSansCyrillic/museosanscyrl_500.ttf")format("truetype")
-    url("../fonts/MuseoSansCyrillic/museosanscyrl_500.woff")format("woff");
-    font-style: normal;
-    font-weight: normal;
-}
 
 
 @font-face {
